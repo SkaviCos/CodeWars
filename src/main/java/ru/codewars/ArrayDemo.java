@@ -6,7 +6,8 @@ public class ArrayDemo {
 
         //int sample[] = new int[10];
         //int  i;
-        String t="";
+        String t="opoppop";
+        t.replace("o","O");
         for (String s : words)
            t += s + " ";
             return t.isEmpty() ? "" : t.substring(0, t.length() - 1);

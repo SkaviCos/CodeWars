@@ -19,7 +19,7 @@ public class ArrayDemoTest {
 
         @Test
         public void validateOneWord() {
-            assertEquals("Bilal", ArrayDemo.smash(new String[] {"Bilal"}));
+            assertNotEquals("Bilal", ArrayDemo.smash(new String[] {"Bilal"}));
         }
 
     }

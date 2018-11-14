@@ -10,7 +10,7 @@ public class ArrayDemo {
 
         String t = "";
 
-        String t="opoppop";
+        //String t="opoppop";
         t.replace("o","O");
 
         for (String s : words)

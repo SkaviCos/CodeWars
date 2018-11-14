@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codewarschall.iml" filepath="$PROJECT_DIR$/.idea/modules/codewarschall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codewarschall_main.iml" filepath="$PROJECT_DIR$/.idea/modules/codewarschall_main.iml" group="codewarschall" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codewarschall_test.iml" filepath="$PROJECT_DIR$/.idea/modules/codewarschall_test.iml" group="codewarschall" />
+=======
       <module fileurl="file://$PROJECT_DIR$/CodeWars.iml" filepath="$PROJECT_DIR$/CodeWars.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/CodeWars_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CodeWars_main.iml" group="CodeWars" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/CodeWars_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CodeWars_test.iml" group="CodeWars" />
       <module fileurl="file://$PROJECT_DIR$/src/main/Hortsmann.iml" filepath="$PROJECT_DIR$/src/main/Hortsmann.iml" />
+>>>>>>> refs/remotes/origin/master
     </modules>
   </component>
 </project>

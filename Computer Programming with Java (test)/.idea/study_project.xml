@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="course">
+        <RemoteCourse>
+          <option name="adaptive" value="false" />
+          <option name="authors">
+            <list>
+              <StepicUser>
+                <option name="accessToken" value="" />
+                <option name="firstName" value="Mark" />
+                <option name="guest" value="false" />
+                <option name="id" value="45611989" />
+                <option name="lastName" value="Young" />
+                <option name="refreshToken" value="" />
+              </StepicUser>
+            </list>
+          </option>
+          <option name="compatible" value="true" />
+          <option name="courseMode" value="Study" />
+          <option name="courseType" value="PyCharm" />
+          <option name="customPresentableName" />
+          <option name="description" value="Open to Grades:  9-12&#10;&#10;This course introduces students with little or no programming experience to the fundamental features and essentials necessary to create functional computer programs and games!  Students will be introduced to the multiple stages a programmer works through to take a programming concept and produce a usable Java application.  Through classroom instruction and laboratory experience students will develop skills and knowledge in programming including using mathematical operators; order of operations and error handling, data types and variables; using “if” statements, loops, and arrays; creating menus; and drawing lines and shapes.  With the beginning programmer in mind, this course will introduce you to a new career, maybe your own! Note: Students in grades 10-12 may receive dual credit from Missouri State University.&#10;&#10;Note: We’re sorry, but this course feels a little incomplete. If you are the owner of the course please &lt;a href=&quot;mailto:Tatiana.Vasilyeva@jetbrains.com&quot;&gt;get in touch with us&lt;/a&gt;, we would like to verify this with you; we think with improvement this can be listed as a featured course in the future." />
+          <option name="id" value="8260" />
+          <option name="index" value="-1" />
+          <option name="instructors">
+            <list>
+              <option value="45611989" />
+            </list>
+          </option>
+          <option name="language" value="JAVA" />
+          <option name="languageCode" value="en" />
+          <option name="loadSolutions" value="true" />
+          <option name="name" value="Computer Programming with Java (test)" />
+          <option name="public" value="true" />
+          <option name="sectionIds">
+            <list>
+              <option value="15397" />
+            </list>
+          </option>
+          <option name="type" value="pycharm2 JAVA" />
+          <option name="updateDate" value="1523527352000" />
+          <option name="items">
+            <list>
+              <Lesson>
+                <option name="customPresentableName" />
+                <option name="id" value="84064" />
+                <option name="index" value="1" />
+                <option name="name" value="HelloWorld" />
+                <option name="updateDate" value="1523538152000" />
+                <option name="taskList">
+                  <list>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;html&gt;&#10;Your task is to make the application print the message &quot;Hello World!&quot;.&#10;&lt;br&gt;&#10;&lt;/html&gt;" />
+                      <option name="index" value="1" />
+                      <option name="name" value="HelloWorld" />
+                      <option name="status" value="Unchecked" />
+                      <option name="stepId" value="310700" />
+                      <option name="testsText">
+                        <map>
+                          <entry key="Test.java" value="class Test {&#10;    // put your test here&#10;}" />
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1523527352000" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="Task.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list>
+                                          <option value="You will need main and println methods." />
+                                        </list>
+                                      </option>
+                                      <option name="index" value="0" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="9" />
+                                          <option name="offset" value="89" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="length" value="9" />
+                                      <option name="offset" value="89" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="type here" />
+                                      <option name="possibleAnswer" value="public static void main(String[]args){&#10;    System.out.println(&quot;Hello World!&quot;);&#10;  }" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Unchecked" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="name" value="Task.java" />
+                                <option name="text" value="class Task {&#10;  //Write all necessary code here to make the Hello World! message appear&#10;  type here&#10;}" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                    </EduTask>
+                  </list>
+                </option>
+              </Lesson>
+            </list>
+          </option>
+        </RemoteCourse>
+      </option>
+      <option name="VERSION" value="9" />
+      <option name="myUserTests">
+        <map />
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Adaptive/Getting distinct strings/Adaptive-Getting_distinct_strings.iml" filepath="$PROJECT_DIR$/.idea/modules/Adaptive/Getting distinct strings/Adaptive-Getting_distinct_strings.iml" group="Adaptive-Getting_distinct_strings" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Adaptive/Getting distinct strings/Adaptive-Getting_distinct_strings_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Adaptive/Getting distinct strings/Adaptive-Getting_distinct_strings_main.iml" group="Adaptive-Getting_distinct_strings" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Adaptive/Getting distinct strings/Adaptive-Getting_distinct_strings_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Adaptive/Getting distinct strings/Adaptive-Getting_distinct_strings_test.iml" group="Adaptive-Getting_distinct_strings" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Adaptive_Java.iml" filepath="$PROJECT_DIR$/.idea/Adaptive_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="util" />
+    </modules>
+  </component>
+</project>

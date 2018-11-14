@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.codewars.chall.HelloTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-29T17:41:08" hostname="Konstantin" time="0.001">
+  <properties/>
+  <testcase name="test1" classname="ru.codewars.chall.HelloTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

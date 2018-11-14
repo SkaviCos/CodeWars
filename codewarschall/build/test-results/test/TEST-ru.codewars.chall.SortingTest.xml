@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.codewars.chall.SortingTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-07-29T17:41:08" hostname="Konstantin" time="0.05">
+  <properties/>
+  <testcase name="basicTest" classname="ru.codewars.chall.SortingTest" time="0.003"/>
+  <testcase name="randomTest1" classname="ru.codewars.chall.SortingTest" time="0.011"/>
+  <testcase name="randomTest2" classname="ru.codewars.chall.SortingTest" time="0.003"/>
+  <testcase name="randomTest3" classname="ru.codewars.chall.SortingTest" time="0.015"/>
+  <testcase name="randomTest4" classname="ru.codewars.chall.SortingTest" time="0.003"/>
+  <testcase name="randomTest5" classname="ru.codewars.chall.SortingTest" time="0.003"/>
+  <testcase name="symbolsTest" classname="ru.codewars.chall.SortingTest" time="0.0"/>
+  <testcase name="capitalizationTest" classname="ru.codewars.chall.SortingTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

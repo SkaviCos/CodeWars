@@ -2,7 +2,7 @@ package ru.codewars.chall;
 
 import java.util.Scanner;
 
-public class RegExpSamole {
+public class RegExpSample {
 
   public static void main(String[] args) {
 //    String acbRegex = "......";

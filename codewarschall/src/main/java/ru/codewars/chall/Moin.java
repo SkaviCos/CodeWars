@@ -3,20 +3,19 @@ package ru.codewars.chall;
 public class Moin {
 
   public static void main(String[] args) {
-
-    Account account = new Account("123456",1000L
-            ,new User("demo-user","Alexander","Schmidt"));
+    //Account account = new Account("123456",1000L
+      //      ,new User("demo-user","Alexander","Schmidt"));
             //account.setBalance(1000);
 
-
+//    int a = 3*
 
     // create an instance of Account here
 
     // pass it into process method
   }
 
-  static class Account {
-
+  //static class Account {
+/*
     private String code;
     private Long balance;
     private User owner;
@@ -82,5 +81,5 @@ public class Moin {
     public void setLastName(String lastName){
       this.lastName = lastName;
     }
-  }
+  }*/
 }

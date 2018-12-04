@@ -19,29 +19,34 @@ public class RegExpSample {
 //
 //    int number = Integer.parseInt(input);
 //    System.out.println(number + 1);
+    //public void OutputREPL() {
+
     Scanner scanner = new Scanner(System.in);
 
 //    int num  = scanner.nextInt();
 //    int num1 = scanner.nextInt();
 
-    while(true) {
+    while (true) {
       String s = "/exit";
-      String s1 = scanner.next();
-      scanner.nextLine();
+      String s1 = " ";
+      if(scanner.hasNextLine()) {
+        s1 = scanner.nextLine();
+      }
+//      scanner.nextLine();
 //              scanner.nextLine();
-      if(s1.matches(s)){
+
+      if (s1.matches(s)) {
         System.out.println("bye");
         break;
-      }
+      } //else {
 //      s = scanner.nextLine();
-      int num = scanner.nextInt();
-      int num1 = scanner.nextInt();
+        int num = scanner.nextInt();
+        int num1 = scanner.nextInt();
+
 //      s = scanner.nextLine();
-      System.out.println(num + num1);
+        System.out.println(num + num1);
 //      s1 = scanner.nextLine();
-
-
-    }
+      //}
 //    for(int i = 0;i<2;i++){
 //      num1 += num;
 //    }
@@ -56,4 +61,6 @@ public class RegExpSample {
 //    }
 
 
-  }}
+    }
+  }
+}
